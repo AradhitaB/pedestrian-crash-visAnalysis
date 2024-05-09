@@ -4,7 +4,7 @@
 *insert abstract*
 
 ## Methodology
-This repository contains the code and miscelleneous files associated with this project. All associated data can be found at our [Google Drive Page](https://drive.google.com/drive/folders/1zV8nrWAy6M-6Nqk79x9HWR8P9WRCwkOM?usp=drive_link).
+This repository contains the code and miscelleneous files associated with this project. All associated data can be found at our [Google Drive Page](https://drive.google.com/drive/folders/1zV8nrWAy6M-6Nqk79x9HWR8P9WRCwkOM?usp=drive_link), where the zip files include the respective datasets stored by year, or the various versions of the reduced dataset.
 
 ### Preprocessing
 
