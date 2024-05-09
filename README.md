@@ -22,6 +22,13 @@ While the majority of the work done in this section is contained in the dashboar
 ### Time Series Analysis
 
 - Time Series Analysis.ipynb: This ipynb file run all the time series analysis for the project, including exploratory data analysis plots, seasonality, stationarity, SARIMAX, and injury prediction
+  
+![Screenshot 2024-05-08 204319](https://github.com/AradhitaB/pedestrian-crash-visAnalysis/assets/39420775/3b4989ad-92a2-4bfb-b773-303d1e8e8c12)
+![Screenshot 2024-05-08 204808](https://github.com/AradhitaB/pedestrian-crash-visAnalysis/assets/39420775/c487e901-3e20-4f03-8718-3dd475a8c25a)
+
+- Injury Prediction Case Study:
+![Screenshot 2024-05-08 193004](https://github.com/AradhitaB/pedestrian-crash-visAnalysis/assets/39420775/ff2746c4-8b84-467f-877a-aba8ae247f3d)
+
 
 ### Clustering
 
@@ -35,3 +42,5 @@ The work done in clustering is located in the **Clustering** folder.
 ### ArcGIS
   
 - Manhattan Topographic Map.vtpk: ArcGIS file of lower Manhattan. The tile2net polygon data is presented in three different colors: coral for road, green for sidewalk, and blue for crosswalk. The collision data is presented with color and size coding: yellow for injuries, red for deaths, and size for the number of people effected in one collision
+  ![ArcGIS Map](https://github.com/AradhitaB/pedestrian-crash-visAnalysis/assets/39420775/6ec59406-6c3a-440e-b297-b309a07fbcee)
+
